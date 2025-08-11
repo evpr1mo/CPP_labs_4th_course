@@ -1,0 +1,7 @@
+task0/my_new_vm.egg-info/PKG-INFO
+task0/my_new_vm.egg-info/SOURCES.txt
+task0/my_new_vm.egg-info/dependency_links.txt
+task0/my_new_vm.egg-info/top_level.txt
+task0/my_vm/__init__.py
+task0/my_vm/utils.py
+task0/my_vm/vm.py
